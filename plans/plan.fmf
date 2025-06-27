@@ -1,0 +1,5 @@
+summary: Test Suite
+discover:
+    how: fmf
+execute:
+    how: tmt

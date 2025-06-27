@@ -1,0 +1,5 @@
+jobs:
+- job: tests
+  trigger: pull_request
+  targets:
+  - fedora-42
