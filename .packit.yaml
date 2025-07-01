@@ -4,8 +4,3 @@ jobs:
   targets:
   - fedora-42
   skip_build: true
-  tf_extra_params:
-    environments:
-      - hardware:
-          virtualization:
-            is-supported: true
