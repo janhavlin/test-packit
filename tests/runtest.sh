@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "hello from pr 1"
+echo "hello from forked pr"
